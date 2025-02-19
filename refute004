@@ -1,2 +1,0 @@
-def sum_of_square_digits(n):
-    return sum(int(digit)**2 for digit in str(n))
